@@ -1,0 +1,221 @@
+/**
+ * jQuery lightBox plugin
+  */
+
+#content {
+	width:1024px;
+	height:768px;
+	z-index:1;
+	top: 50%;
+	left: 50%;
+	margin-left: -512px;
+	margin-top: -384px;
+	
+	position:absolute;
+	border: 40px;
+}
+
+#topo {
+	width:1024px;
+	height:47px;
+	position:relative;
+	background-image:url(../imagem/menu_top.gif);
+	clear:both;
+	float: right;
+	z-index:2;
+}
+
+#centro {
+	width:1024px;
+	height:658px;
+	position:relative;
+	background-image: url(../imagem/centro_home.jpg);
+	top: 47px;
+	z-index:3;
+}
+
+#content #centro p {
+	width: 510px;
+	height: 130px;
+	text-align: right;
+	color:#FFF;
+	font-family:"Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light", "Myriad Web Pro";
+	font-size:21px;
+	float: right;
+	top: 60%;
+	padding-right: 50px;
+	position: relative;
+}
+
+
+#rodape {
+	width:1024px;
+	height:52px;
+	/* [disabled]top: 50px; */
+	z-index:4;
+	position: relative;
+	background-color: #fff;
+}
+
+#face{
+	width:52px;
+	height:52px;
+	float:left;
+}
+
+/*#content #rodape p {
+	width: 512px;
+	height: 50px;
+	position:relative;
+}
+*/
+#menu {
+	width: 486px;
+	height: 50px;
+	float:left;
+}
+
+#emailtel {
+	width: 400px;
+	height: 50px;
+	float:right;
+	color: #0655A4;
+	text-align: right;
+	font-family: "Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light", "Myriad Web Pro";
+	padding-right: 10px;
+}
+
+
+/*#distance {
+	width:1px;
+	height:50%;
+	background-color:#fc6;
+	margin-bottom:-50em;  Metade da altura do nosso box que ficará centralizado 
+	float:left;
+}*/
+body {
+	height:100%;
+	background-color: #000;
+}
+
+/*aqui começa Dna*/
+
+#centrodna {
+	width:1024px;
+	height:658px;
+	position:relative;
+	background-image: url(../imagem/centro_dna.jpg);
+	top: 47px;
+	z-index:3;
+}
+
+#content #centrodna p {
+	width: 667px;
+	/*	height: 130px; */
+	text-align: left;
+	color:#808080;
+	font-family:"Myriad Web Pro";
+	font-size:14px;
+	float: right;
+	top: 50px;
+	padding-right: 25px;
+	position: relative;
+	height: 10;
+}
+.bold {
+	font-weight: bold;
+}
+
+/*aqui começa galeria*/
+
+#centrogaleria {
+	width:1024px;
+	height:658px;
+	position:relative;
+	background-image: url(../imagem/centro_galeria.jpg);
+	top: 47px;
+	z-index:3;
+}
+
+#content #centrogaleria p {
+	width: 130px;
+	/*	height: 130px; */
+	text-align: left;
+	color:#808080;
+	font-family:"Myriad Web Pro";
+	font-size:18px;
+	float: left;
+	top: 80px;
+	padding-left: 90px;
+	position: relative;
+}
+
+
+#gallery {
+	margin-top: 30px;
+	margin-right: 40px;
+	padding: 0px;
+	width: 540px;
+	float: right;
+	height: 500px;
+	background-color: #FFF;
+	top: 10px;
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+	border: 5px solid #fge;
+	/* [disabled]border-width: 5px 5px 20px; */
+
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+		color: #fff;
+		
+	}
+	#gallery ul a:hover { color: #fff; }
+
+#videos{
+	width: 180px;
+	height: 130px;
+	text-align: center;
+	font-family:"Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light", "Myriad Web Pro";
+	font-size:21px;
+	float: left;
+	position: absolute;
+	top: 450px;
+	background-image: url(../photos/box.png);	/*background:no-repeat;*/
+	left: 125px;
+}
+
+.centralizar {
+	text-align:	left;
+	color: #808080;
+}
+
+	
+/*aqui começa contato*/
+
+#centrocontato {
+	width:1024px;
+	height:614px;
+	position:relative;
+	clear:both;
+	background-color:#FFF;
+}
+
+#contato{
+	position:relative;	
+	background-color:#FFF;
+	width:565px;
+	height:610px;
+	float: left;
+}
+
+#mapacontato {
+	width:445px;
+	position:relative;
+	float:right;
+	height: 614px;
+}
