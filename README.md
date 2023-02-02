@@ -1,5 +1,6 @@
 # sitestudio97b
-Ajuste de código do site da agencia studio97b que eu criei em 2012
+Um dos primeiros sites que eu criei em 2012.
+Site da agencia studio97b.
 
 Link para perfil no Linkedin [Flávio Borges](https://www.linkedin.com/in/flavio-fm-borges/)
 
