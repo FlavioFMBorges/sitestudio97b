@@ -6,7 +6,7 @@ Usei Html, CSS, PHP e Javascript com o uso de jquery mesmo sem saber sobre estes
 eram limitados ao curso Desenhista de páginas Web que tinha foco somente em html com uso de tabelas.
 Fiz na época um trabalho árduo de autodidatismo contudo, consegui entregar o site pronto e funcionando.
 
-O site pode ser visto no [link] (https://flaviofmborges.github.io/sitestudio97b/index.html)
+O site pode ser visto no [link](https://flaviofmborges.github.io/sitestudio97b/index.html)
 
 
 Linkedin [Flávio Borges](https://www.linkedin.com/in/flavio-fm-borges/)
